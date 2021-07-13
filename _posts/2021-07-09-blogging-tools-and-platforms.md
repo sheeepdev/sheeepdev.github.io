@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Blogging tools and platforms
 author: sheep
 date: 2021-07-09 19:22:00 +0200
 categories: [Blogging]
