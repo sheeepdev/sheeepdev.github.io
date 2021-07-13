@@ -2,7 +2,7 @@
 title: Getting Started
 author: sheep
 date: 2021-07-09 19:22:00 +0200
-categories: [Blogging, Tutorial]
+categories: [Blogging]
 tags: [blogging]
 ---
 
