@@ -15,6 +15,10 @@
 
 // append your custom style below
 
-#sidebar ul .nav-item .nav-link > i, #sidebar .sidebar-bottom i {
+#sidebar ul .nav-item .nav-link > i, #sidebar .sidebar-bottom i, #sidebar #avatar > a {
   border: none !important;
+}
+
+#sidebar #avatar img:hover {
+  transition: none
 }
