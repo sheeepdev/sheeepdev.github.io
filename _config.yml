@@ -18,7 +18,7 @@ timezone: Europe/Zagreb
 # --------------------------
 title: sheep's blog                          # the main title
 
-tagline: A blog where i post anything that comes to my mind   # it will display as the sub-title
+tagline: A blog where I post anything that comes to my mind   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  A blog where I post anything that comes to my mind
@@ -83,7 +83,7 @@ toc: true
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'sheepsblog'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  shortname: 'sheeps-blog'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
