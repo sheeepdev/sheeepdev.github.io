@@ -22,3 +22,7 @@
 #sidebar #avatar img:hover {
   transition: none
 }
+
+#sidebar ul .nav-item .nav-link > span {
+  text-transform: lowercase;
+}
