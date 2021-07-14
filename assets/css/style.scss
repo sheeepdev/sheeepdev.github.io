@@ -14,3 +14,7 @@
 @import "{{ site.theme }}";
 
 // append your custom style below
+
+#sidebar ul .nav-item .nav-link > i, #sidebar .sidebar-bottom i {
+  border: none !important;
+}
