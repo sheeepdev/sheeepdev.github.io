@@ -4,5 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
+Hey, im sheep. I'm a developer from Zagreb, Croatia and im interested in computers, programming and robotics.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+You can visit my main website [here](https://sheepdev.xyz/)
